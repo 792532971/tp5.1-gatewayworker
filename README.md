@@ -1,7 +1,7 @@
 # thinkphp51gatewayworker
 thinkphp 5.1.23 整合gatewaywoker 实现TCP长连接应用
 
-	git clone https://github.com/dreamsleet/thinkphp51gatewayworker.git	
+	git clone https://github.com/792532971/tp5.1-gatewayworker.git
 	
 
 附：
@@ -29,7 +29,7 @@ workerman及gatewayworker安装
 
 启动
 
-	php /home/www/thinkphp51gatewayworker/public/server.php start -d 	#修改为自己的实际项目路径
+	php /www/wwwroot/w.bgga.cn/public/server.php start -d 	#修改为自己的实际项目路径(我的是宝塔)
 	
 		
 备注：
